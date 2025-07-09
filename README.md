@@ -24,5 +24,5 @@ A machine learning-based web application that predicts whether an employee is li
 
 ---
 
-## 📂 Project Structure
+
 
